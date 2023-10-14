@@ -28,4 +28,4 @@ Route::get('/aku',function(){
 Route::get('/selamat',function(){
     return 'Selamat siang anak-anak monyet';
 });
-R
+
